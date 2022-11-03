@@ -1,8 +1,6 @@
-<h1 align="center">Hey there, I'm Thomas Abou, welcome to my github <img src="https://media.giphy.com/media/Xtf4p3Ib9D31GOisHr/giphy.gif" width="35"></h1>
+<h1>Hey there, I'm Thomas Abou, welcome to my github <img src="https://media.giphy.com/media/Xtf4p3Ib9D31GOisHr/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&duration=2000&pause=1000&color=59a178&center=true&width=435&lines=Software+Engineer+student+at+EPITA;Always+ready+to+learn+new+things;Climbing+expert+!" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Karla&duration=2000&pause=1000&color=59a178&width=435&lines=Software+Engineer+student+at+EPITA;Always+ready+to+learn+new+things;Climbing+expert+!" alt="Typing SVG" /></a>
 
 
 
