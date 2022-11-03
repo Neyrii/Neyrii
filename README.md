@@ -16,7 +16,8 @@
 <br>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=thomasabou01&theme=vue-dark&hide_border=true)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=thomasabou01&theme=vue&hide_border=true)](https://git.io/streak-stats#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thomasabou01&show_icons=true&theme=vue-dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=thomasabou01&show_icons=true&theme=vue#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=thomasabou01&theme=vue-dark&border=59a178)](https://git.io/streak-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=thomasabou01&show_icons=true&theme=vue-dark&border_color=59a178#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thomasabou01&theme=vue&border=59a178)](https://git.io/streak-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=thomasabou01&show_icons=true&theme=vue&border_color=59a178#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
