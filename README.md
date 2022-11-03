@@ -9,8 +9,8 @@
 ## :alien:  More about me
 - :school: Currently in my fourth year at `EPITA` in Paris learning new technical skills.
 - :technologist: More thant just SE, I love to resolve `technical` problems in every field.
-- :computer: I am a full-stack programmer mostly interested by `embedded system`
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
+- :computer: I'm a full-stack programmer mostly interested by `embedded system`
+- :green_heart: I’m currently working in [Giskard](https://www.giskard.ai/) to improve quality of AI!
 - :medal_sports: Sports guy specialized in tennis and climbing
 
 <br>
